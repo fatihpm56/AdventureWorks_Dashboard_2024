@@ -1,0 +1,51 @@
+CustomerKey,FirstName,LastName,Gender,AnnualIncome,City,Country,BirthDate
+1,David,Jones,M,90000,Surabaya,Indonesia,1965-08-24
+2,Jennifer,Williams,F,100000,Singapore,Singapore,1979-09-18
+3,Patricia,Miller,F,25000,Los Angeles,United States,1966-08-03
+4,Karen,Miller,F,100000,Los Angeles,United States,1983-02-13
+5,William,Williams,M,120000,New York,United States,1970-07-28
+6,Michael,Miller,M,100000,Singapore,Singapore,1970-07-28
+7,Elizabeth,Brown,F,90000,Sydney,Australia,1969-09-21
+8,Thomas,Rodriguez,M,60000,New York,United States,1987-12-27
+9,Michael,Johnson,M,50000,London,United Kingdom,1977-03-20
+10,Robert,Williams,M,120000,Tokyo,Japan,1993-11-19
+11,Elizabeth,Williams,F,120000,Surabaya,Indonesia,1995-08-21
+12,Barbara,Martinez,F,25000,New York,United States,1997-02-10
+13,Jessica,Smith,F,25000,New York,United States,1983-02-21
+14,Charles,Martinez,M,150000,Los Angeles,United States,1994-10-18
+15,Joseph,Jackson,M,60000,New York,United States,1995-09-05
+16,Joseph,Johnson,M,90000,Surabaya,Indonesia,1997-11-06
+17,Michael,Taylor,M,120000,Tokyo,Japan,1998-09-20
+18,William,Garcia,M,75000,Los Angeles,United States,1991-06-22
+19,William,Johnson,M,90000,Surabaya,Indonesia,2000-11-13
+20,Barbara,Taylor,F,50000,New York,United States,1970-10-22
+21,William,Jones,M,100000,Sydney,Australia,1970-05-18
+22,Elizabeth,Moore,F,50000,Singapore,Singapore,1970-11-22
+23,Sarah,Garcia,F,25000,New York,United States,1984-03-07
+24,Jessica,Brown,F,60000,Sydney,Australia,1974-02-10
+25,Thomas,Thomas,M,150000,Singapore,Singapore,1967-11-11
+26,Charles,Miller,M,50000,Sydney,Australia,1976-12-25
+27,Joseph,Smith,M,100000,New York,United States,1980-08-20
+28,Jessica,Brown,F,150000,Melbourne,Australia,1984-08-27
+29,William,Anderson,M,120000,Tokyo,Japan,1983-07-17
+30,Jennifer,Moore,F,60000,Berlin,Germany,1973-05-02
+31,Elizabeth,Rodriguez,F,35000,Singapore,Singapore,1972-05-03
+32,David,Davis,M,150000,Sydney,Australia,1992-02-08
+33,Elizabeth,Jackson,F,25000,Los Angeles,United States,1968-07-17
+34,Linda,Miller,F,35000,New York,United States,1979-01-11
+35,William,Thomas,M,50000,Sydney,Australia,1967-05-27
+36,Jennifer,Thomas,F,120000,Tokyo,Japan,1965-02-01
+37,Linda,Moore,F,50000,Singapore,Singapore,1998-07-04
+38,Linda,Jones,F,35000,Jakarta,Indonesia,1980-07-21
+39,Patricia,Johnson,F,120000,Berlin,Germany,1999-01-21
+40,John,Jones,M,100000,Jakarta,Indonesia,1987-04-19
+41,Jennifer,Anderson,F,35000,Singapore,Singapore,1988-02-17
+42,Richard,Moore,M,120000,Jakarta,Indonesia,1989-06-09
+43,William,Thomas,M,35000,New York,United States,1980-12-22
+44,Charles,Taylor,M,90000,Sydney,Australia,1967-06-18
+45,Jennifer,Moore,F,120000,Tokyo,Japan,1976-03-03
+46,Mary,Jones,F,60000,Jakarta,Indonesia,1977-01-11
+47,Sarah,Miller,F,150000,Tokyo,Japan,1981-01-25
+48,David,Garcia,M,25000,New York,United States,1982-02-26
+49,Susan,Jackson,F,100000,Tokyo,Japan,1989-06-06
+50,Jessica,Garcia,F,150000,London,United Kingdom,1970-12-14

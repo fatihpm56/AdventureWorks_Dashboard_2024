@@ -1,0 +1,21 @@
+ProductKey,ProductName,Category,SubCategory,Price,Cost,Color
+1,Trail Master 200,Bikes,Mountain Bikes,1409,833.93,White
+2,Peak Rider X,Bikes,Mountain Bikes,1539.73,863.29,Black
+3,Summit Pro 500,Bikes,Mountain Bikes,1528.35,862.69,Yellow
+4,Alpine Cruiser,Bikes,Mountain Bikes,679.61,302.5,Yellow
+5,Ridge Runner 350,Bikes,Mountain Bikes,1909.59,1203.78,Blue
+6,SpeedLine 100,Bikes,Road Bikes,30.17,18.63,White
+7,Aero Racer,Bikes,Road Bikes,1648.5,688.08,Yellow
+8,Velocity Pro,Bikes,Road Bikes,1588.43,647.55,Yellow
+9,WindCutter S,Bikes,Road Bikes,1333.25,658.69,Silver
+10,PaceSetter 700,Bikes,Road Bikes,862.13,424.61,Yellow
+11,SafeRide Helmet,Accessories,Helmets,49.06,31.17,White
+12,ProGuard Helm,Accessories,Helmets,23.92,9.88,Red
+13,AeroShield X,Accessories,Helmets,94.22,38.86,Black
+14,HydroFlask 750ml,Accessories,Bottles & Cages,43.57,24.64,Silver
+15,GripCage Pro,Accessories,Bottles & Cages,78.74,39.65,Red
+16,Breathe Jersey,Clothing,Jerseys,94.27,40.39,Silver
+17,SpeedFit Pro,Clothing,Jerseys,26.64,15.17,White
+18,Aero Jersey,Clothing,Jerseys,66.1,37.46,Black
+19,GripMax Gloves,Clothing,Gloves,38.15,24.65,Black
+20,ProFit Gloves,Clothing,Gloves,15.81,7.52,Red
