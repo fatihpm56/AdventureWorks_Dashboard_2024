@@ -1,4 +1,4 @@
-# 🚴🏼AdventureWorks Sales Performance Dashboard 2024🚴🏼
+# AdventureWorks Sales Performance Dashboard 2024
 
 <img width="1306" height="735" alt="Screenshot 2026-08-02 071230" src="https://github.com/user-attachments/assets/76e145db-5573-4e11-8594-f33128326dfb" />
 
