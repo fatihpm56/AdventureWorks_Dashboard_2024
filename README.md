@@ -2,10 +2,10 @@
 
 <img width="1306" height="735" alt="Screenshot 2026-08-02 071230" src="https://github.com/user-attachments/assets/76e145db-5573-4e11-8594-f33128326dfb" />
 
-## Project Background
+## 🧰 Project Background
 AdventureWorks is a fictional global company selling outdoor and cycling products across multiple regions, including Southeast Asia, Oceania, North America, and Europe. As the business scales, management needs a centralized, visual way to monitor sales performance, profitability, and product trends across different markets and time periods. This project builds an interactive Power BI dashboard to consolidate sales, profit, and order data from AdventureWorks' 2023-2024 transactions into a single, easy-to-read view.
 
-## Problem Statement
+## 🔐 Problem Statement
 Without a consolidated reporting tool, stakeholders previously had to manually pull and cross-reference data from multiple sources (customer, product, territory, and sales tables) to answer basic business questions such as:
 - Which products generate the highest sales and profit?
 - Which countries and regions contribute the most revenue?
@@ -14,7 +14,7 @@ Without a consolidated reporting tool, stakeholders previously had to manually p
 
 This manual process is time-consuming, error-prone, and does not support quick, data-driven decision-making.
 
-## Analysis
+## 📊 Analysis
 
 ### Data Understanding
 The dashboard is built from six datasets:
@@ -40,12 +40,12 @@ These tables are structured in a star schema, connecting fact tables to dimensio
 - **Monthly sales trend** shows notable volatility, with peaks around 102K-124K in certain months (e.g., early 2023 and early 2024) and dips below 20K in others, suggesting seasonal or promotional effects
 - **Profit by category** shows Bikes as the dominant category (0.35M profit), significantly outperforming Accessories (0.13M) and Clothing (0.12M)
 
-## Conclusion
+## 💡 Conclusion
 - AdventureWorks' sales are broadly diversified across geography and product lines, reducing dependency risk on any single market
 - Bikes are the primary profit driver, far ahead of Accessories and Clothing
 - Sales performance fluctuates significantly month to month, pointing to seasonality or the impact of specific campaigns/promotions rather than steady, linear growth
 
-## Recommendations
+## 🎯 Recommendations
 1. **Double down on Bikes** — since this category drives the majority of profit, consider expanding the product line or increasing marketing investment here
 2. **Investigate sales spikes and dips** — analyze what drove the high-performing months (e.g., promotions, seasonality) and replicate those conditions in lower-performing months
 3. **Grow underperforming categories** — Accessories and Clothing have lower profit but could be cross-sold alongside Bikes to increase basket size
